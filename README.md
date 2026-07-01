@@ -13,7 +13,7 @@ It is a login page layout/ it include
 The page is divided into two sections:
 
 - **Left Section**
-  - Displays an illustration/logo.
+  - Displays an illustration/image.
 - **Form Section**
   - Login heading
   - Welcome message
